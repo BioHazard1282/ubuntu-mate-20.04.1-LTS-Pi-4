@@ -26,3 +26,9 @@ DEFAULT USER: `pi`<br>
 PASSWORD: `raspberry`<br>
 
 HOSTNAME: `raspberrypi`<br>
+
+# Download
+
+File size is roughly 3.5GB xz-compressed, 15.9GB when uncompressed.
+
+https://mega.nz/file/7lpQwISR#qvBhliRyrJHuSAOjLz8QQ3wn5WThJAxRFCnx8ofRWYY
