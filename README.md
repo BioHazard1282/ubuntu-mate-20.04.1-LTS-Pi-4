@@ -20,6 +20,7 @@ I take no credit for the original Operating System and/or it's included free sof
 ## Information
 
 No settings have been changed in the Operating System.
+*NO PACKAGES HAVE BEEN UPDATED, YOU NEED TO UPDATE THEM MANUALLY TO UPDATE TO 20.04.3!!**
 
 DEFAULT USER: `pi`<br>
 
