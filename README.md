@@ -19,8 +19,10 @@ I take no credit for the original Operating System and/or it's included free sof
 
 ## Information
 
-No settings have been changed in the Operating System.
-*NO PACKAGES HAVE BEEN UPDATED, YOU NEED TO UPDATE THEM MANUALLY TO UPDATE TO 20.04.3!!**
+No settings have been changed in the Operating System.<br>
+
+**NO PACKAGES HAVE BEEN UPDATED, YOU NEED TO UPDATE THEM MANUALLY TO UPDATE TO 20.04.3!!**<br><br>
+`unattended-upgr` **has been disabled, so you will not be stuck on this when upgrading. Please note this is a security risk if you choose not to upgrade any packages.**
 
 DEFAULT USER: `pi`<br>
 
